@@ -1,0 +1,38 @@
+Metodický list 1- Úvod do programování, seznámení s robotem Ozobot – ukázka funkènosti
+
+Cíl hodiny: Po této hodinì by mìli být žáci schopni: 
+		- vysvìtlil pojem programovací jazyk, programování, pøíkaz, algoritmus
+		- vysvìtlil a popsat základní funkce robota Ozobot
+		- kreslit základní trasu pro robota Ozobot za pomocí èerného fixu 
+
+Tematický celek: Úvod do programování 
+
+Téma hodiny: Programovací jazyk, programování, pøíkazy, algoritmus, seznámení s robotem 			Ozobot 
+
+Potøebný èas: 90 minut 
+
+Použité metody: Výklad uèitele,  Heuristická metoda,  Samostatná práce 			žákù, 
+
+Zajištìní hodiny: Ozobot, papíry, èerné fixy, ukázkové pøíklady, projektor, internetový prohlížeè, 
+
+Èasový harmonogram: 
+
+3´  Úvod - Uèitel oznámí žákùm, jaký je cíl pøedmìtu a cíl hodiny. 
+
+20´ (23´) Nové uèivo - HEURISTICKÁ METODA:  Pro úplné základy programování by uèitel mohl použít heuristickou metodu. Žáci na základì dobøe položených otázek sami objevují základy programování, které se vyskytují v bìžném životì. Kde si myslíte, že se mùžeme setkat s programovacím jazykem ?  Co to je Program ?  Jak vypadá program vyprání obleèení v automatické praèce, nebo uvaøení kávy ? Co je to pøíkaz  ? Každý žák musí vymyslet program o minimálnì deseti pøíkazech z bìžného denního života. Jaky jsme podle vás použili nyní programovací jazyk ? Znáte i jiné programovací jazyky ? 
+
+20´ (43´) PROGRAMOVACÍ JAZYK LOGO - SAMOSTATNÁ PRÁCE ŽÁKÙ: pro seznámení žákù s rùznými programovacími jazyky je možné použít napø. Jazyk Logo, který nevyžaduje dlouhé vysvìtlování formulace pøíkazù a je pøirozený lidské øeèi. Jazyk lze také pøipodobnit k chování robota Ozobot. Žák by na základì pøíkazu Vpøed, vzad a otoè s pøíslušným pøiøazením poètu kroku nebo stupòù otoèení mìli napøíklad dojít ve škole z uèebny kde se zrovna nachází do øeditelny pøípadnì jiné místnosti. 
+
+20´ (63´) Pøedstavení robota Ozobot ukázka základních funkcí  - VÝKLAD UÈITELE: Nejprve by uèitel ukázal robota Ozobot popsal jak vypadá a co umí. Pro jednoduchost by jeho výklad mohla podpoøit krátká promítaná prezentace s obrázkovými a video ukázkami.  Tu by zobrazil pomocí projektoru. Poté by uèitel žákùm ukázal použití Ozobota v praxi lze použít ukázkové pøíklady na konci metodických listù. Lze také pøímo pøed studenty kreslit trasu s pøíkazy na papír nebo bílou tabuli položenou do vodorovné polohy.1 Pøíklady mùže uèitel ukázat na položeném monitoru pøípadnì tabletu a demonstrovat tím tak variabilitu robota.  Pøi ukázce funkcí robota je potøeba zmínit všechna úskalí na trase. V první hodinì se zamìøíme pouze na èernou èást trasy bez použití
+
+Ozokódu. Hlavní úskalí èerné trasy jsou šíøka trasy musí být dostateènì hrubá (5-6 mm). Dále je potøeba studentùm øíct, že Ozobot se na køižovatce èerných èar rozhoduje zcela náhodnì. Nejvìtší úskalí tkví v tom, že fix nelze mazat, tedy studenti si pøed nakreslením trasy musí dobøe promyslet.  
+
+20´(83´) Kreslení první trasy pro Ozobota - SAMOSTATNÁ PRÁCE ŽÁKÙ: pro seznámení žákù s kreslením trasy pro ozobota rozdáme papíry a èerné fixy. Zadání trasy mùže být rùzné dle nápadu vyuèujícího. Lze napøíklad zadat nakreslit mapu trasy z místnosti do øeditelny použitou v pøíkladì výše, pøípadnì napsat své jméno jedním tahem (bez pøekøížení èar). Dùležitým faktorem tìchto pøíkladù, je aby žáci získali odhad pro dostateènou šíøku trasy a procvièení myšlení. Každý student si pak vyzkouší na svém výtvoru Ozobota spustit. Ozobot by mìl projít trasu od zaèátku až do konce. 
+
+7´ (90´) Závìr vyuèování, opakování, otázky - HEURISTICKÁ METODA,VÝKLAD UÈITELE: Uèitel klade otázky které nutí žáky k pøemýšlení nad daným tématem: Jak vypadá program pro robota Ozobot ? Lze vylepšeného robota podobného typu k nìèemu použít ? Co tøeba pohyb zboží ve skladu, nebo letadel po letištích ?  (Ukázka v praxi: https://www.youtube.com/watch?v=aBnP-014DNw) Vymyslete další zpùsoby užití robota v praxi. 
+
+Pøíklady: 
+
+Ukázka funkcí Ozobota vèetnì Ozokódu. 
+
+
